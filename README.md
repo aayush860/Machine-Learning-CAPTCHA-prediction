@@ -9,3 +9,6 @@ This project use folloing steps to be complete->
 6. After Training was sucessfully completed i saved the model using joblib to use it in a faster way so that while predicting CAPTCHA it would be feasible to read and predict the CAPTCHA.
 7. So i integrated the model with a selenium code i was writing to collect data. But the problem being CAPTCHA.(Now being solved by the svm model i trained)
 8. So after collecting data most important part was to visialize data the the best way to do it using pyython's matplotlib library!
+
+
+Youtube Link - https://www.youtube.com/watch?v=XTfi-vWIuds
