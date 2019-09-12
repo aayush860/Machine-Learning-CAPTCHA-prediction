@@ -1,7 +1,0 @@
-i have'nt uploaded the code of Trained dataset or machine learning model (i.e.".sav") file.
-
-
-in future to expand its scope i can manipulate its image processing part and use it for any type of CAPTCHA available
-i alredy did it for 8 letter CAPTCHA.
-
-in case for mode details contact me at-		+91-8602937010 or aayush.bhrgv@gmail.com
